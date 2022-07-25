@@ -1,0 +1,246 @@
+table.stil1 {
+    border-collapse: collapse; 
+    height: 26px;
+    font-family: 'Times New Roman', Times, serif;
+ }
+ th.stil1{
+    border: 1px solid black;
+ }
+ td.center{
+     text-align: center;
+     border: 1px solid black;
+     height: 26px;
+ }
+ td.padding1{
+     padding-left: 15px;
+     width: 37%;
+     border: 1px solid black;
+     height: 26px;
+ }
+ td.padding2{
+     width: 45%;
+     padding-left: 5px;
+     border: 1px solid black;
+     height: 26px;
+ }
+ 
+ table.stil2 {
+    border-collapse: collapse;
+    height: 26px;
+    font-family: 'Times New Roman', Times, serif;
+ }
+
+ th.stil2{
+    border: 1px solid black;
+    padding-right: 20px;
+    background-color: #ffd966;
+ }
+
+ td.padding3{
+    padding-left: 5px;
+    width: 1cm;
+    border: 1px solid black;
+    height: 26px;
+    background-color: #9cc2e5;
+}
+
+td.padding4{
+    padding-left: 5px;
+    width: 5cm;
+    border: 1px solid black;
+    height: 26px;
+    background-color: #e7e6e6;
+}
+
+td.padding5{
+    padding-left: 5px;
+    width: 4cm;
+    border: 1px solid black;
+    height: 26px;
+    background-color: #e7e6e6;
+}
+
+td.padding6{
+    padding-left: 5px;
+    width: 3cm;
+    border: 1px solid black;
+    height: 26px;
+    background-color: #e7e6e6;
+}
+
+th.stil3{
+    border: 1px solid black;
+    padding-right: 25px;
+}
+
+th.stil4{
+    border: 1px solid black;
+    padding-right: 91px;
+    background-color: #ffd966;
+ }
+
+ th.stil5{
+    border: 1px solid black;
+    padding-right: 97px;
+    background-color: #ffd966;
+ }
+
+ th.stil6{
+    border: 1px solid black;
+    padding-right: 49px;
+    background-color: #ffd966;
+ }
+
+ th.stil7{
+    border: 1px solid black;
+    padding-right: 251px;
+    padding-top: 3px;
+    padding-bottom: 2px;
+    background-color: #538135;
+ }
+
+ th.stil8{
+    border: 1px solid black;
+    padding-right: 102px;
+    padding-top: 3px;
+    padding-bottom: 2px;
+    background-color: #538135;
+ }
+
+ table.stil3 {
+    border: 1px solid #69c;
+    border-collapse: separate;
+    empty-cells: hide;
+    color: #69c;
+    height: 3cm;
+    width: 7cm;
+    font-family:'Times New Roman', Times, serif;
+ }
+ th.stil9{
+    border: 2px solid #69c;
+ }
+ 
+ td.stil1 {
+    border: 2px solid #69c;
+    padding-left: 8px;
+ }
+
+ table.stil4{
+     border-collapse: collapse;
+     font-family: cursive;
+ }
+ th.stil12{
+    border: 3px solid #773a30;
+    padding-right: 326px;
+    padding-bottom: 15px;
+    padding-top: 10px;
+    background-color: #2e4e96;
+    color: #dd8b1f;
+ }
+
+ td.stil11{
+    border: 3px solid #773a30;
+    width: 2cm;
+    padding-bottom: 10px;
+    padding-left: 3px;
+    background-color: #f3e1c7;
+ }
+ td.stil12{
+    border: 3px solid #773a30;
+    padding-bottom: 3cm;
+    padding-top: 10px;
+    padding-left: 10px;
+    background-color: #2e4e96;
+    color: #d3cabe;
+ }
+ 
+ td.stil13{
+    border: 3px solid #773a30;
+    padding-bottom: 3cm;
+    padding-top: 15px;
+    padding-left: 15px;
+    background-color: #f3e1c7;
+ }
+
+ table.stil5{
+   border-collapse: collapse;
+ }
+
+ th.stil3{
+   font-family: Arial, Helvetica, sans-serif;
+    border: 3px solid #bcd98c;
+    width: 4cm;
+    line-height: 20px;
+    text-align: left;
+    padding-left: 16px;
+    padding-top: 6px;
+    background-color: #16470b;
+    color: #c4bb2d;
+ }
+
+ td.stil14{
+   font-family: cursive;
+   border: 3px solid #bcd98c;
+   padding-top: 90px;
+   width: 3cm;
+   text-align: center;
+   padding-bottom: 90px;
+   background-color: #c4bb2d;
+ }
+ 
+ td.stil15{
+   font-family: cursive;
+   border: 3px solid #bcd98c;
+   line-height: 100px;
+   vertical-align: top;
+   padding-left: 15px;
+   background-color: #daddc7;
+ }
+
+ td.stil16{
+   font-family: cursive;
+   border: 3px solid #bcd98c;
+   line-height: 12px;
+   font-size: 8px;
+   padding-left: 5px;
+   background-color: #16470b;
+   color: #c4bb2d;
+ }
+
+ table.stil6{
+   border-collapse:collapse;
+}
+
+td.stil17{
+   border: 3px solid #993300;
+   font-family: cursive;
+   width: 2cm;
+   text-align: center;
+   background-color: #480468;
+}
+
+td.stil18{
+   border: 3px solid #993300;
+   font-family: Arial, Helvetica, sans-serif;
+   height: 1cm;
+   padding-left: 10px;
+   background-color: #a27eb3;
+}
+
+td.stil19{
+   border: 3px solid #993300;
+   font-family: cursive;
+   line-height: 17px;
+   font-size: 12px;
+   padding-left: 10px;
+   background-color: #e6caf3;
+}
+
+td.stil20{
+   border: 3px solid #993300;
+   font-family: cursive;
+   width: 4cm;
+   height: 3cm;
+   padding-left: 10px;
+   background-color: #f3e1c7;
+}
